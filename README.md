@@ -29,7 +29,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 - <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
 
 <h2>Utilities Used</h2>
-
+- <b>Microsoft Azure Sentinel, Azure Virtual Machine:</b> To Initiate Honeypot for Attacks </br>
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
 <h2>Attacks from Russia coming in; Custom logs being output with geodata</h2>
