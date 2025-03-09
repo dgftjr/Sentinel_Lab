@@ -11,6 +11,16 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <br />
 <br />
 
+<h4> Logical Diagram: 
+<br/>
+<br/>
+<p align="center">
+<img src="https://github.com/dgftjr/Sentinel_Lab/blob/main/FailedLogIn_geolocate.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+</p>
+
+<h4> Geolocate the Failed Log-In Attempts: 
+<br/>
+<br/>
 <p align="center">
 <img src="https://github.com/dgftjr/Sentinel_Lab/blob/main/FailedLogIn_geolocate.jpg" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
@@ -21,12 +31,6 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Utilities Used</h2>
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
-
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
-
-<p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
-</p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
