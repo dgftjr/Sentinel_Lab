@@ -31,5 +31,5 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://github.com/dgftjr/Sentinel_Lab/blob/main/AttackMap_24hr.jpg" height="75%" width="75%" alt="Image Analysis Dataflow"/>
 </p>
